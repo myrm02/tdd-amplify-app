@@ -16,7 +16,8 @@
         "userHandler": {
           "deploymentBucketName": "amplify-tddcompilation-dev-5ec1a-deployment",
           "s3Key": "amplify-builds/userHandler-6e46335858426a33744a-build.zip"
-        }
+        },
+        "userPush": {}
       },
       "storage": {
         "tddcompilationdb": {}
