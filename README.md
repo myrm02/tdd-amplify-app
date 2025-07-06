@@ -1,4 +1,4 @@
-# tdd_compilation
+# App Amplify
 
 This template should help get you started developing with Vue 3 in Vite.
 
