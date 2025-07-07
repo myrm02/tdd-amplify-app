@@ -30,5 +30,5 @@ npm run build
 
 Pour tester l'API via l'url "" :
 
-  - Pour récupérer les informations d'un utilisateur -> /userInfos (route API) avec comme request body : {"email": "admin@email.com"}
+  - Pour récupérer les informations d'un utilisateur -> /userInfos (route API) avec comme request body : {"username": "admin@admin.com"}
   - Pour créer un utilisateur -> /createUser (route API) avec comme request body : {"email": {email}, "password": {password}}
